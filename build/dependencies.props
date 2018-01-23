@@ -1,0 +1,10 @@
+<Project>
+
+  <PropertyGroup>
+    <AspNetCoreVersion>2.0.*</AspNetCoreVersion>
+    <AspNetContribOpenIdExtensionsVersion>2.0.0-rc1-final</AspNetContribOpenIdExtensionsVersion>
+    <OpenIddictVersion>2.0.0-rc1-final</OpenIddictVersion>
+    <RuntimeFrameworkVersion>2.0.0</RuntimeFrameworkVersion>
+  </PropertyGroup>
+
+</Project>
